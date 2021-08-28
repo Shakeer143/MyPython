@@ -1,2 +1,2 @@
 # MyPython
-Guessing Number Game Using Python
+I'm just beginner in python😁.
